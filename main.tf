@@ -1,5 +1,8 @@
 # Source: https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
 # Provisions an NGINX server using Docker
+#
+# To use this, you will need to download Terraform and Docker Engine
+# Personal recommendation: create a seperate repository for every infrastructure project
 
 terraform {
   required_providers {
