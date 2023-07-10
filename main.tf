@@ -2,7 +2,7 @@
 # Provisions an NGINX server using Docker
 #
 # To use this, you will need to download Terraform CLI and Docker Engine
-# Personal recommendation: create a seperate repository for every infrastructure project
+# Every Terraform configuration must be in its own working directory
 
 terraform {
   required_providers {
