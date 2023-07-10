@@ -1,3 +1,6 @@
+# Source: https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
+# Provisions an NGINX server using Docker
+
 terraform {
   required_providers {
     docker = {
